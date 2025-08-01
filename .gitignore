@@ -1,0 +1,27 @@
+subimages_from_square_200x200_tiff/
+Old_Young_Comparison/
+to_share_w_helens_team/
+Segmentation_Masks_Ben/
+subimages_from_square_200x200_tiff_padded/
+sampeulers/
+nefi-mac_64bit_build
+
+#Ignore CSV files
+*.csv
+
+Ignore png files
+*.png
+
+# Ignore NumPy array files
+*.npy
+
+#Ignore .json files
+*.json
+
+# Ignore compiled shared-object libraries
+*.so
+
+#Ignore ppts
+*.pptx
+overlays/
+thymus paper/
